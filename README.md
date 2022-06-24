@@ -1,6 +1,6 @@
 ### Olá! Sou Viviane Ferreira 👾
 
-- 💻 Cursando Engenharia de Software
+💻 Cursando Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/viviferreiras">
