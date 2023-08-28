@@ -23,6 +23,6 @@ Vamos conversar sobre tecnologia, colaborações ou apenas trocar ideias! Você 
 - 📧 Email: vivianeferreiras1@outlook.com
 - 💼 LinkedIn: Viviane Ferreira(https://www.linkedin.com/in/viviferreiras/)
 
-- Fique à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado e desenvolvimento. Obrigado por visitar meu perfil! 😊
+Fique à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado e desenvolvimento. Obrigado por visitar meu perfil! 😊
 
   
