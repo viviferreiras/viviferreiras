@@ -1,28 +1,40 @@
-# Bem-vindo ao meu Perfil do GitHub! 💜
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-## Sobre Mim
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=800080&center=true&vCenter=true&width=1000&height=120&lines=Hello!+My+name+is+Viviane+Ferreira%2C;I'm+26+years+old%2C;I+from+Brazil.;Software+Engineering+graduate+student;!!!Welcome!!!)](https://git.io/typing-svg)
 
-Olá! Sou Viviane Ferreira, uma entusiasta da Engenharia de Software apaixonada por tecnologia e inovação. Estou sempre em busca de novos desafios que me permitam expandir meus conhecimentos e aprimorar minhas habilidades. Acredito que a tecnologia tem o poder de transformar o mundo e estou empolgada em fazer parte desse processo.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viviferreiras&bg_color=0d1117&color=800080&line=7B68EE&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-*🔭 Atualmente estou estudando Engenharia de Software na Centro Universitário de Brasília IESB.  
-🌱 Estou aprendendo mais sobre desenvolvimento web, inteligência artificial e arquitetura de software.  
-💬 Adoro discutir ideias e compartilhar conhecimentos sobre tecnologia, então sinta-se à vontade para entrar em contato comigo.  
-⚡ Curto explorar novas linguagens de programação e ferramentas para expandir meu conjunto de habilidades.*    
 
-## Tecnologias Favoritas
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=viviferreiras&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-*💻 Linguagens: Python, JavaScript  
-🌐 Front-end: HTML, CSS, React  
-🛢️ Back-end: Node.js, Express  
-🚀 Outras: Git, Docker*  
 
-## Contato
 
-Vamos conversar sobre tecnologia, colaborações ou apenas trocar ideias! Você pode me encontrar em:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viviferreiras&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Viviane Ferreira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviferreiras&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
-*📧 Email: vivianeferreiras1@outlook.com   
-💼 LinkedIn: Viviane Ferreira(https://www.linkedin.com/in/viviferreiras/)*    
 
-Fique à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado e desenvolvimento. Obrigado por visitar meu perfil! 💜🫂
+<div align="center"> 
+<a href = "mailto:cmp.1a.vivianeferreiras1@outlook.com"> <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/vivifereiras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+
+ ### Main skills:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vivi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<!--   <img align="center" alt="Vivi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <img align="center" alt="Vivi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vivi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vivi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!--   <img align="center" alt="vivi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+</div>
+
+
+
 
   
