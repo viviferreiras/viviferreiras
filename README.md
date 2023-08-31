@@ -19,7 +19,7 @@
 
 <div align="center"> 
 <a href = "mailto:vivianeferreiras1@outlook.com"> <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/vivifereiras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/viviferreiras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
 
